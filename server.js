@@ -15,7 +15,7 @@ app.get('/', function (req, res) {
 })
 
 app.get('/myname', function (req, res) {
-  res.send("<center><h1>C0864407 - Pradeep Kamalbhai Panja</h1></center>")
+  res.send("<center> <h1>C0864407 - Pradeep Kamalbhai Panja</h1></center>")
 })
 
 //http://localhost:3000/profile
